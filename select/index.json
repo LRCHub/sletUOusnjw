@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "One More Time（feat. NØZ）",
+  "base_artist": "虎韻",
+  "createdAt": "2026-02-26T16:02:31.378955Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "One More Time (feat. NØZ)",
+      "artist": "虎韻",
+      "has_synced": false,
+      "path": "select/pl_01_One_More_Time_(feat._NØZ)_虎韻.txt"
+    }
+  ]
+}
